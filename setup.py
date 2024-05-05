@@ -22,7 +22,7 @@ requirements = [
     "pandas>=1.5.0, <2.0.0",
     "patsy>=0.5.1",
     "plotly>=4.12.0",
-    "pmdarima>=1.8.0, <=1.8.5",
+    "pmdarima>=1.8.0, <=2.8.5",
     "pytest>=4.6.5",
     "pytest-runner>=5.1",
     "scipy>=1.5.4, <1.11.0",
